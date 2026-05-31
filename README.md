@@ -33,15 +33,15 @@ A modern weather dashboard built using React, Material UI, and WeatherAPI. Users
 
 ### Home Screen
 
-![home](./screenshots/home.png)
+![home](./Screenshots/home.png)
 
 ### Delhi Weather
 
-![delhi Weather](./screenshots/delhi.png)
+![delhi Weather](./Screenshots/delhi.png)
 
 ### Nainital Weather
 
-![nanital Weather](./screenshots/nanital.png)
+![nanital Weather](./Screenshots/nanital.png)
 
 ---
 
